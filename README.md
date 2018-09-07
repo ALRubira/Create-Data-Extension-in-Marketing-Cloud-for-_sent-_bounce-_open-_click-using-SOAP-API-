@@ -10,3 +10,7 @@ ______________________________________
 <!-- Specify folder DE created in -->
     <CategoryID>0000</CategoryID>
 ______________________________________            
+
+
+The Username Password and endpoint are shown with the variables of the Postman program. You must change them for the ones you need
+
